@@ -1,6 +1,6 @@
 # Schoology Theme
 
-A minimal theme for [Schoology](https://www.powerschool.com/classroom/schoology-learning/), using style bot to implement
+A minimal theme for [Schoology](https://www.powerschool.com/classroom/schoology-learning/), using Stylebot to implement
 
 
 ## Setup

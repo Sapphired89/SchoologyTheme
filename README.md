@@ -8,7 +8,7 @@ A minimal theme for [Schoology](https://www.powerschool.com/classroom/schoology-
 - Download Stylebot from the [Chrome](https://chromewebstore.google.com/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?pli=1) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/) web store
 - Open Schoology and open the extension
 - Enable Stylebot
-- Click 'Open Stylebot' and paste style.css into the field.
+- Click 'Open Stylebot' and paste styles.css into the field.
 
 
 ## Contributors

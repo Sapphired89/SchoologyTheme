@@ -19,4 +19,4 @@ A minimal theme for [Schoology](https://www.powerschool.com/classroom/schoology-
 
 # Bored?
 
-- Change values to your hearts content, or learn [CSS](https://web.dev/learn/css)
+- Edit the theme to your hearts content, or learn [CSS](https://web.dev/learn/css) and make one yourself

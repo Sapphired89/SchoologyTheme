@@ -1,171 +1,196 @@
 /* ------ Main Style ------ */
 #main-content-wrapper {
-    margin-top: 48px;
-    padding: 32px;
-    border: none;
-    border-radius: 32px;
-    background: #f1f4f4;
-    box-shadow:  8px 8px 16px #bbbdbd,
-                -8px -8px 16px #ECEBEB;
-    overflow: hidden;
-  }
+  margin-top: 48px;
+  padding: 32px;
+  border: none;
+  border-radius: 32px;
+  background: #f1f4f4;
+  box-shadow:  8px 8px 16px #bbbdbd,
+              -8px -8px 16px #ECEBEB;
+  overflow: hidden;
+}
 
 #center-top {
-    background: #f1f4f4;
-    border: none;
-    padding-top: 4px;
-  }
-  
+  background: #f1f4f4;
+  border: none;
+  padding-top: 4px;
+}
+
 .content-top-upper {
-    background: transparent;
-    border: none;
-    padding: 24px 32px 0px 32px;
-  }
-  
+  background: transparent;
+  border: none;
+  padding: 24px 32px 0px 32px;
+}
+
 .course-materials-full {
-    background-color: transparent;
-  }
-  
+  background-color: transparent;
+}
+
 .sgy-card{
-    background-color: none;
-    border-radius: 32px;
-    overflow: hidden;
-      box-shadow:  8px 8px 16px #bbbdbd,
-                -8px -8px 16px #ECEBEB;
-  }
-  
-.sgy-card-lens{
-    border-radius: 32px;
-  }
-  
-.upcoming-events{
-    border-radius: 32px;
+  background-color: none;
+  border-radius: 32px;
+  overflow: hidden;
     box-shadow:  8px 8px 16px #bbbdbd,
-                -8px -8px 16px #ECEBEB;
-  }
+              -8px -8px 16px #ECEBEB;
+}
+
+.sgy-card-lens{
+  border-radius: 32px;
+}
+
+.upcoming-events{
+  border-radius: 32px;
+  box-shadow:  8px 8px 16px #bbbdbd,
+              -8px -8px 16px #ECEBEB;
+}
 
 .upcoming-list  .upcoming-events{
-    text-align: center;
-  }
-  
-  
+  text-align: center;
+}
+
+
 .recently-completed-wrapper{
-    border-radius: 32px;
-    box-shadow:  8px 8px 16px #bbbdbd,
-                -8px -8px 16px #ECEBEB;
-  }
+  border-radius: 32px;
+  box-shadow:  8px 8px 16px #bbbdbd,
+              -8px -8px 16px #ECEBEB;
+}
+
+#home-feed-container{
+  border-radius: 32px;
+  box-shadow:  8px 8px 16px #bbbdbd,
+              -8px -8px 16px #ECEBEB;
+}
+
+div.fc-event-skin.ev-course{
+  background-color: #6599c2;
+  border: none;
   
-  
-  
-  /* ------ Left Style ------ */
+}
+
+div.fc-event-skin.ev-course .fc-event-title {
+  color: white;
+}
+
+div.fc-event-skin.ev-school .fc-event-title{
+  color: black;
+}
+
+.fc-event-time{
+  color: black;
+}
+
+
+/* ------ Left Style ------ */
 #sidebar-left {
-    padding-top: 4px;
-  }
-  
+  padding-top: 4px;
+}
+
 #left-nav > #menu-s-main > ul > li .active {
-    background-color: #ffffffaa;
-    border-radius: 4px;
-    border: none;
-  }
-  
+  background-color: #ffffffaa;
+  border-radius: 4px;
+  border: none;
+}
+
 #left-nav > #menu-s-main > ul > li:hover {
-    background-color: #ffffff75;
-    border-radius: 4px;
-    border: none;
-  }
-  
+  background-color: #ffffff75;
+  border-radius: 4px;
+  border: none;
+}
+
 #left-nav > div {
-    margin-right: 10px !important;
-  }
-  
+  margin-right: 10px !important;
+}
+
 .profile-picture > img {
-    border-radius: 12px;
-  }
+  border-radius: 12px;
+}
+
 
 /* ------ Fixes ------ */
 
 h2.page-title {
-    white-space: pre;
-    width: 100%;
-    overflow-x: hidden;
-    text-overflow: ellipsis;
-  }
-  
-  
-  /* ------ Spacing ------ */
-  
+  white-space: pre;
+  width: 100%;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* ------ Spacing ------ */
+
 a._2JX1Q._1tpub._3EZZc._1FFms.nOK4_.sExtlink-processed {
-    padding-right: 0;
-  }
-  
+  padding-right: 0;
+}
+
 div.CustomBrandingLogo-vertical-strip-background-color-3_NIE.util-width-zero-point-two-3yNp_.util-height-three-point-two-1MHxH._3Knne {
-    margin-right: 0;
-  }
-  
+  margin-right: 0;
+}
+
 header._1Z0RM.Header-bottom-border-2ZE-7._3v0y7._349XD {
-    border-top: 0px;
-  }
-  
-  
-  /* ------ Hiding Stuff ------ */
+  border-top: 0px;
+}
+
+
+/* ------ Hiding Stuff ------ */
 .has-right-col #center-inner {
-    background: transparent;
-  }
-  
+  background: transparent;
+}
+
 a.app-link.sExtlink-processed.sAppMenu-processed {
-    display: none;
-  }
+  display: none;
+}
 
 #content-left {
-    display: none;
-  }
-  
+  display: none;
+}
+
 a.menu-1041.course-workload-left-menu.sExtlink-processed {
-    display: none;
-  }
-  
+  display: none;
+}
+
 a.menu-3287.course-student-competency-left-menu.sExtlink-processed {
-    display: none;
-  }
-  
+  display: none;
+}
+
 a.menu-3191.course-badges-left-menu.sExtlink-processed {
-    display: none;
-  }
-  
+  display: none;
+}
+
 a.menu-555.course-attendance-left-menu.sExtlink-processed {
-    display: none;
-  }
-  
+  display: none;
+}
+
 div._1tpub._3mp5E._24W2g._26UWf.util-height-six-3PHnk.util-line-height-six-3lFgd.util-justify-content-space-between-3euFK {
-    display: none;
-  }
+  display: none;
+}
 
 div._9e7c_._3UYz2.util-background-position-left-center-3_shb.util-height-six-3PHnk.util-width-sixteen-JiX3r {
-    display: none;
-  }
-  
+  display: none;
+}
+
 a.ui-selectmenu.ui-widget.ui-state-default.ui-corner-all.sExtlink-processed.sCourseSwitcher-processed {
-    display: none;
-    
-  }
+  display: none;
   
+}
+
 a.link-btn.notification-settings.sExtlink-processed.sCourse-processed {
-    display: none;
-  }
-  
+  display: none;
+}
+
 p.school-name {
-    display: none;
-    
-  }
+  display: none;
   
+}
+
 div.reminders-wrapper {
-    display: none;
-  }
-  
+  display: none;
+}
+
 div.todo.todo-wrapper {
-    display: none;
-  }
-  
+  display: none;
+}
+
 .sgy-card-subcontext{
-    display: none;
-  }
+  display: none;
+}
+

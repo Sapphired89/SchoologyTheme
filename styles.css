@@ -79,6 +79,12 @@ div.fc-event-skin.ev-school .fc-event-title{
   color: black;
 }
 
+div.todo.todo-wrapper {
+  border-radius: 32px;
+box-shadow:  8px 8px 16px #bbbdbd,
+              -8px -8px 16px #ECEBEB;
+}
+
 
 /* ------ Left Style ------ */
 #sidebar-left {
@@ -183,10 +189,6 @@ p.school-name {
 }
 
 div.reminders-wrapper {
-  display: none;
-}
-
-div.todo.todo-wrapper {
   display: none;
 }
 
